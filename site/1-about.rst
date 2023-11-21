@@ -6,7 +6,7 @@ Hakkımda
 .. image:: /_static/images/about.svg
 	:width: 200
   		
-Açık kaynaklı sistemleri tanıma ve geliştirme yapan yazılımcıyım.
+5. Sınıf Bilişim Tekonulojileri Ders Notları.
 
 
 .. raw:: pdf

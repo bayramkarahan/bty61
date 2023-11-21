@@ -6,7 +6,7 @@
 html_theme = 'alabaster'
 
 
-project = 'Blog Sayfam'
+project = '6. Sınıf Ders Notları'
 copyright = 'Blog 2023'
 author = 'karahan'
 language = 'tr'
@@ -15,7 +15,7 @@ smartquotes = False
 
 # -- Options for PDF output --
 
-pdf_documents = [('index', u'rst2pdf', u'Blog Dokümanı', u'Linux'),]
+pdf_documents = [('index', u'rst2pdf', u'6 Sınıf Ders Notları', u'BTY6'),]
 pdf_stylesheets = ['style-main.yaml', 'tango']
 pdf_font_path = ['/usr/share/fonts', '/usr/share/texmf-dist/fonts/']
 pdf_style_path = [ '.', 'site/_static']
