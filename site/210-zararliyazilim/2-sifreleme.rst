@@ -1,5 +1,8 @@
+Şifreleme Yöntemleri
+++++++++++++++++++++
+
 Sezar Şifreleme
-+++++++++++++++
+---------------
 
 Sezar şifrelemesi, metinleri şifrelemek veya şifrelenmiş metinleri çözmek için kullanılan basit bir şifreleme yöntemidir. Bu yöntem, Julius Sezar tarafından kullanıldığı için onun adını almıştır.
 
@@ -15,7 +18,7 @@ Sezar şifrelemesi, basit ve hızlı bir şifreleme yöntemi olmasına rağmen, 
   
 
 Md5 Şifeleme
-++++++++++++
+------------
 
 MD5 (Message Digest Algorithm 5), bir mesajın veya verinin benzersiz bir karmasını oluşturmak için kullanılan bir kriptografik karma işlemidir. MD5, 128 bitlik bir karma değeri üretir ve genellikle parola veya veri bütünlüğünü doğrulamak için kullanılır.
 
