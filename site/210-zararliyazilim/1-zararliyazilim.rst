@@ -1,3 +1,5 @@
+Zararlı Yazım
++++++++++++++
 Bt cihazlarına ve içindeki bilgilere zarar veren her türlü yazılıma zararlı yazılım denilir.
 
 .. image:: /_static/images/zararliyazilim-all.png
@@ -7,7 +9,7 @@ Bt cihazlarına ve içindeki bilgilere zarar veren her türlü yazılıma zararl
 Bu yazılımlar;
 
 Virüsler:
-+++++++++
+---------
 
 Virüsler donanıma ve yazılıma zarar veren yazılımlardır. Dünyaya en fazla zarar veren çernobil(Cih) virüsüdür.
 
@@ -17,7 +19,7 @@ Virüsler donanıma ve yazılıma zarar veren yazılımlardır. Dünyaya en fazl
   
 
 Truva Atı:
-++++++++++
+----------
 
 Truva atları bilgisayara doğrudan zarar vermez. Fakat bilgisayarın içerisinden dışarısına bilgi gönderir. Kısacası evimize girmiş bir ajan gibi düşünebiliriz. Keylogger Screen Logger en bilindikleridir.
 
@@ -27,7 +29,7 @@ Truva atları bilgisayara doğrudan zarar vermez. Fakat bilgisayarın içerisind
   
 
 Solucanlar:
-+++++++++++
+-----------
 
 Solucanların çoğalma tekniğine benzer bir çoğalma yaptıkları için solucan olarak ifade edilmektedirler. bu yazılımıların bt cihazlarının kaynaklarını aşırı şekilde kullanması sebebiyle kilitlenme,yavaşlama vb. şikayetlerle karşılaşırız.
 
@@ -47,7 +49,7 @@ Kullanıcıların bilgisayar ve internet kullanırken devamlı olarak reklamlar�
   
 
 Fidye:
-++++++
+------
 
 Bilgisayar içindeki bilgileri şifreleyerek para karşılığında şifresini veren yazılım.
 
