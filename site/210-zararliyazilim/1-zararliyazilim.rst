@@ -39,7 +39,7 @@ Solucanların çoğalma tekniğine benzer bir çoğalma yaptıkları için soluc
   
 
 Reklamlar:
-++++++++++
+----------
 
 Kullanıcıların bilgisayar ve internet kullanırken devamlı olarak reklamların gelmesi bilgisayar kullanmaya engel olacağı gibi ayrıca kullanıcıyıda rahatsız etmektedir...
 

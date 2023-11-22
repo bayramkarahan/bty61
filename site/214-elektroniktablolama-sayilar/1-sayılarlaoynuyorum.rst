@@ -140,23 +140,6 @@ Değer Say:
 =bağ_değ_dolu_say(Başlangıç Hucre : Bitiş Hucre Adresi)
 =bağ_değ_say(c2:c5)
 
-Grafik Oluşturma:
------------------
-
-İki değeri olan tablolarda pasta grafiği kullanılabilirken birden fazla değer barındıran tablolarda diğer grafikler kullanılabilmektedir.
-
-.. image:: /_static/images/elektroniktablolama-grafik.png
-	:width: 250
-	:alt: Alternative text
-
-- BT.6.4.1.1. Tablolama programının ara yüzünü ve özelliklerini tanıyarak amaca uygun bir tablo oluşturur.
-- BT.6.4.1.2. Belirli bir amaç için oluşturduğu tabloyu biçimlendirir.
-- BT.6.4.1.3. Oluşturduğu tablo üzerinde hesaplama işlemleri yapar.
-- BT.6.4.1.4. Tablodaki verilere filtre uygular.
-- BT.6.4.1.5. Amaca uygun grafik türlerini kullanarak veriyi görselleştirir.
-- BT.6.4.1.6. Farklı tablolama programlarını keşfeder.
-- BT.6.4.1.7. İş birliğine dayalı olarak oluşturduğu belgeyi paylaşır.
-
 .. raw:: pdf
 
    PageBreak

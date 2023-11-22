@@ -5,9 +5,10 @@ En az iki bilgisayarın birbirine bağlanmasıyla oluşturulan yapıya bilgisaya
 
 Genel olarak 3 gruba sınıflandırılabilir.
 
-Yerel Alan Ağları(LAN), Kablosuz Yerel Alan Ağı(WLAN)
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Yerel Alan Ağları(LAN)
+++++++++++++++++++++++
 
+Kablosuz Yerel Alan Ağı(WLAN):
 Aynı ortamdaki bilgisayarların bağlanmasıyla oluşturulan ağ yapısıdır. Örneğin bilişim laboratuvarı, internet Kafe , ofis vb. yapılar.
 
 .. image:: /_static/images/agvepaylasim-lan.png
@@ -37,9 +38,10 @@ Dünyadaki metropol ağlarının  birleşmesiyle oluşan yapıdır. Kısacası �
   :width: 200
   :alt: Alternative text
  
- Paylaşım:
- +++++++++
- Paylaşım bir kaynağın birden fazla bilgisayar tarafından kullanılmasını sağlayan yapıdır.
+Paylaşım:
++++++++++
+
+Paylaşım bir kaynağın birden fazla bilgisayar tarafından kullanılmasını sağlayan yapıdır.
 
 Bizlere sağladığı avantajlar şunlardır;
 
