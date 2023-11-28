@@ -1,10 +1,47 @@
-BT.6.4.2. Ses ve Video İşleme Programları
+Ses ve Video İşleme Programları
++++++++++++++++++++++++++++++++
 
-BT.6.4.2.1. Ses ve video dosya biçimlerini bilir.
+OBS(Çevrim Dışı/Offline):
+++++++++++++++++++++++++
 
-BT.6.4.2.2. Ses ve video dosyalarını düzenleyebileceği yazılımları kullanır.
+Birden fazla kaynağı(mikrofon, kamera, web sitesi, video, ekran vb) aynı anda video oluşturma ve youtube vb web siteler üzerinden yayın yapmayı sağlayan  bir uygulamadır.
 
-BT.6.4.2.3. Ses dosyaları ile ilgili düzenleme işlemlerini yürütür.
+.. image:: /_static/images/sesvideo-obs.png
+	:width: 400
+	:alt: Alternative text
+
+.. image:: /_static/images/sesvideo-videoprogram.png
+	:width: 400
+	:alt: Alternative text
+
+https://123apps.com/tr/
++++++++++++++++++++++++
+
+.. image:: /_static/images/sesvideo-sesprogram.png
+	:width: 400
+	:alt: Alternative text
+
+.. raw:: pdf
+
+   PageBreak
+   
+Ses ve video Dosya Biçimleri
+++++++++++++++++++++++++++++
+
+Ses Türleri
+-----------
+
+.. image:: /_static/images/sesvideo-ses.png
+	:width: 400
+	:alt: Alternative text
+
+Video Türleri
+-------------
+
+.. image:: /_static/images/sesvideo-video.png
+	:width: 400
+	:alt: Alternative text
+
 
 .. raw:: pdf
 

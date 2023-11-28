@@ -23,7 +23,7 @@ Sık Kullanılan Fare İşaretleri:
 Excelde hücreleri seçili hücrelere göre uyarlama işaretidir. 
 
 .. image:: /_static/images/elektroniktablolama-isaret.png
-	:width: 300
+	:width: 250
 	:alt: Alternative text
 
 Formülleri veya verileri diğer hücrelere uyarlar. Bunlar;
@@ -95,50 +95,57 @@ Sarı Alan: C4:F4
 Yeşil Alan: C6:F8
 Mavi Alan: H4:H8
 
+.. raw:: pdf
+
+   PageBreak
 
 Temel Formüller:
 ++++++++++++++++
 
 Formüller = işaretiyle başlar.
-Not: Formülleri tek tek yazmak yerine uyarlama () işaretini kullanabiliriz.
+Not: Formülleri tek tek yazmak yerine uyarlama **+** işaretini kullanabiliriz.
 
 .. image:: /_static/images/elektroniktablolama-formul.png
 	:width: 400
 	:alt: Alternative text
 
 Üstte görülen resme göre aşağıdaki formüller yazılmıştır.
+
 Toplama:
 --------
-Hücrelerin toplamını alır.
-=topla(Başlangıç Hucre : Bitiş Hucre Adresi)
-=topla(c2:c5)
+
+- Hücrelerin toplamını alır.
+- =topla(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =topla(c2:c5)
+
 Ortalama:
 ---------
 
-=ortalama(Başlangıç Hucre : Bitiş Hucre Adresi)
-=ortalama(c2:c5)
+- =ortalama(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =ortalama(c2:c5)
+
 En Büyük:
 ---------
 
-=mak(Başlangıç Hucre : Bitiş Hucre Adresi)
-=mak(c2:c5)
+- =mak(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =mak(c2:c5)
 
 En Küçük:
 ---------
 
-=min(Başlangıç Hucre : Bitiş Hucre Adresi)
-=min(c2:c5)
+- =min(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =min(c2:c5)
 
 Boş Say:
 --------
+- =boşluksay(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =boşluksay(c2:c5)
 
-=boşluksay(Başlangıç Hucre : Bitiş Hucre Adresi)
-=boşluksay(c2:c5)
 Değer Say:
 ----------
 
-=bağ_değ_dolu_say(Başlangıç Hucre : Bitiş Hucre Adresi)
-=bağ_değ_say(c2:c5)
+- =bağ_değ_dolu_say(Başlangıç Hucre : Bitiş Hucre Adresi)
+- =bağ_değ_say(c2:c5)
 
 .. raw:: pdf
 
