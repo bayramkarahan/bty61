@@ -1,4 +1,4 @@
-BTY5
+BTY6
 ====
 .. toctree::
 	:glob:
