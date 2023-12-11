@@ -9,15 +9,40 @@ Listelerde çeşitli filtrelemeler yapılabilir bunlar;
 - Alfabetik bilgiler sıralanır.
 - Frekansları hesaplanabilir.
 
+.. image:: /_static/images/elektroniktablolama-filtre.png
+	:width: 400
+	:alt: Alternative text
 
-Grafik Oluşturma:
-+++++++++++++++++
 
-İki değeri olan tablolarda pasta grafiği kullanılabilirken birden fazla değer barındıran tablolarda diğer grafikler kullanılabilmektedir.
+.. raw:: pdf
+
+   PageBreak
+
+
+Grafik Türleri:
++++++++++++++++
+
+1. İki değerlibilgiler pasta grafiği ile gösterilir.
+
+.. image:: /_static/images/elektroniktablolama-grafik-pasta.png
+	:width: 400
+	:alt: Alternative text
+
+
+2. Birden fazla değer barındıran tablolarda diğer grafikler kullanılabilmektedir.
+
+.. image:: /_static/images/elektroniktablolama-grafik-cubuk.png
+	:width: 400
+	:alt: Alternative text
+
 
 .. image:: /_static/images/elektroniktablolama-grafik.png
 	:width: 250
 	:alt: Alternative text
+
+.. raw:: pdf
+
+   PageBreak
 
 - BT.6.4.1.1. Tablolama programının ara yüzünü ve özelliklerini tanıyarak amaca uygun bir tablo oluşturur.
 - BT.6.4.1.2. Belirli bir amaç için oluşturduğu tabloyu biçimlendirir.
