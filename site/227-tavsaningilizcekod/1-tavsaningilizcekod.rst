@@ -5,9 +5,9 @@ Bu uygulamada tekrar eden her şey tekrar bloğu ile yapılacak.
 
 Örneğin aşağıdaki ***İşlem*** 2 defa yapalacağını ifade etmektedir.
  
-- ┌────( 2 )──── 
+- "basla,basla(){" yerine main(){ 
 -  İşlem
-- └───────────── 
+- "son,└─────────────, blok sonrarına" } kullanılacaktır.
 
 .. image:: /_static/images/tavsan-1.png
   :width: 600
