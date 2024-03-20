@@ -1,5 +1,5 @@
-5-2-5-Mantiklidusunuyorum
-=========================
+6-2-1-Veri Türleri
+==================
 .. toctree::
 	:glob:
 
