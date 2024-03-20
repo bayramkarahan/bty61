@@ -1,5 +1,30 @@
-Ses ve Video İşleme Programları
-+++++++++++++++++++++++++++++++
+Ses Düzenleme Programları
++++++++++++++++++++++++++
+
+- Audacity (offline)
+- 123apps (online)
+
+Video Düzenleme Programları
++++++++++++++++++++++++++++
+
+- movavi video editör (offline)
+- 123apps (online)
+
+Ses Üzerinde Yapılabilecek İşlemler
++++++++++++++++++++++++++++++++++++
+
+- ses artırma
+- ses karıştırma
+- ses kesme, ekleme
+
+Video Üzerinde Yapılabilecek İşlemler
++++++++++++++++++++++++++++++++++++++
+
+- ses değiştirme
+- video kesme
+- ses kesme, ekleme
+- video döndürme
+
 
 OBS(Çevrim Dışı/Offline):
 ++++++++++++++++++++++++
