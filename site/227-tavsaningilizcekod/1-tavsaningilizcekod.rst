@@ -7,10 +7,11 @@ Bu uygulamada tekrar eden her şey tekrar bloğu ile yapılacak.
  
 - "basla,basla(){" yerine main(){ 
 -  İşlem
-- "son,└─────────────, blok sonrarına" } kullanılacaktır.
+- "son,└─────────────, blok sonları" yerine } kullanılacaktır.
 
 .. image:: /_static/images/tavsan-1.png
   :width: 600
+  :height: 600
   :alt: Alternative text
 
 .. raw:: pdf

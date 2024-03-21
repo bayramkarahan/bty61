@@ -11,6 +11,7 @@ Bu uygulamada tekrar eden her şey tekrar bloğu ile yapılacak.
 
 .. image:: /_static/images/tavsan-1.png
   :width: 600
+  :height: 600
   :alt: Alternative text
 
 .. raw:: pdf

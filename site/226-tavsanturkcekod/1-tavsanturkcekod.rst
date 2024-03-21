@@ -7,10 +7,11 @@ Bu uygulamada tekrar eden her şey tekrar bloğu ile yapılacak.
  
 - basla yerine basla(){
 -  İşlem
-- blok sonları ve "└─────────────" yerine } kullanılacaktır.
+- "blok sonları ve └─────────────" yerine } kullanılacaktır.
 
 .. image:: /_static/images/tavsan-1.png
   :width: 600
+  :height: 600
   :alt: Alternative text
 
 .. raw:: pdf
