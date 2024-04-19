@@ -14,9 +14,13 @@ Genellikle giriş için kullanılan nesneler;
 
 .. image:: /_static/images/arduino-giris.png
 	:width: 600
+	:height: 400
   	:alt: Alternative text
 
+.. raw:: pdf
 
+   PageBreak
+   
 **Çıkış**
 ---------
 
@@ -31,6 +35,7 @@ Genellikle çıkış için kullanılan nesneler;
 
 .. image:: /_static/images/arduino-cikis.png
 	:width: 600
+	:height: 400
   	:alt: Alternative text
 
 

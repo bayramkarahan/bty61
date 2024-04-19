@@ -12,6 +12,7 @@ Aşağıda sayi adındaki değişkenimizi A butonuyla artırma ve B butonuyla ek
 
 .. image:: /_static/images/arduino-degisken-2.png
 	:width: 600
+	:height: 400
   	:alt: Alternative text
 
 
