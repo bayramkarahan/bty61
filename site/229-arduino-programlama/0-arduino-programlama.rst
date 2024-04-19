@@ -1,7 +1,7 @@
-Microbit Programlama
+Arduino Programlama
 ++++++++++++++++++++
 
-Microbit robotik çalışmalar yapabileceğimiz içerisinde birden çok sensör barındıran bir bilgisayardır. 
+Arduino robotik çalışmalar yapabileceğimiz içerisinde birden çok sensör barındıran bir bilgisayardır. 
 
 Bu kartla bir çok projeyi kolaylıkla yapabiliriz.
 
