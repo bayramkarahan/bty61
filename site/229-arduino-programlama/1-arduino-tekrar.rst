@@ -16,7 +16,7 @@ Döngüler blog içindeki kodları tekrar tekrar çalıştıran yapılardır. Mi
 **Örnek2:**
 -----------
 
-11. numaralı pine bağlı ledin arduino çalıştığında 5 defa yanıpsönmesini sağlayan devre ve blok kod.
+11. numaralı pine bağlı ledin arduino çalıştığında 5 defa yanıp sönmesini sağlayan devre ve blok kod.
 
 .. image:: /_static/images/arduino-tekrar-2.png
 	:width: 600

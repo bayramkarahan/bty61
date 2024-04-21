@@ -18,7 +18,7 @@ Ders notuna göre kırmızı ya da yeşil ledin yanmasını sağlayan örnek dev
 
 Aşağıda ise butonuna basınca ledin yanmasını sağlayan yazan kod bulunmaktadır.
 
-.. image:: /_static/images/arduino-karar-02.png
+.. image:: /_static/images/arduino-karar-ana-02.png
 	:width: 600
   	:alt: Alternative text
 
