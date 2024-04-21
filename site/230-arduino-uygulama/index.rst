@@ -1,5 +1,5 @@
-5-2-19- Arduino Programlama
-============================
+5-2-20- Arduino Uygulama
+========================
 .. toctree::
 	:glob:
 

@@ -8,15 +8,14 @@ Bir olayın gerçekleşmesine bağlı olarak çalışıp çalışmayacağını b
 
 Ders notuna göre kırmızı ya da yeşil ledin yanmasını sağlayan örnek devre tasarımı.
 
-**dersnotu=60** olduğunda yeşil led yanıyor.
+**dersnotu=40** olduğunda kırmızı led yanıyor.
 
 .. image:: /_static/images/arduino-karar-ana-01.png
 	:width: 600
   	:alt: Alternative text
 
-**dersnotu=40** olduğunda kırmızı led yanıyor.
+**dersnotu=60** olduğunda yeşil led yanıyor.
 
-Aşağıda ise butonuna basınca ledin yanmasını sağlayan yazan kod bulunmaktadır.
 
 .. image:: /_static/images/arduino-karar-ana-02.png
 	:width: 600
@@ -40,7 +39,7 @@ Aşağıda 2 numaralı pine bağlı olan butona basınca ledin yanmasını için
 
 Aşağıda ise butonuna basınca ledin yanmasını sağlayan yazan kod bulunmaktadır.
 
-.. image:: /_static/images/arduino-karar-12.png
+.. image:: /_static/images/arduino-karar-ana-12.png
 	:width: 600
   	:alt: Alternative text
 
