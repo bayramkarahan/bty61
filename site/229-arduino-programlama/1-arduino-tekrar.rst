@@ -11,21 +11,21 @@ Tekrar için kullanılabilecek bloglar şunlardır.
 
 .. image:: /_static/images/arduino-tekrar-ana-1.png
 	:width: 600
-	:height: 250 
+	:height: 225 
   	:alt: Alternative text
 
 **Tekrar Yapısı 2:** Süresiz çalışan tekrar yapısı
 
 .. image:: /_static/images/arduino-tekrar-ana-2.png
 	:width: 600
-	:height: 250 
+	:height: 225 
   	:alt: Alternative text
 
 **Tekrar Yapısı 3:** Süresiz çalışan tekrar yapısı
 
 .. image:: /_static/images/arduino-tekrar-ana-3.png
 	:width: 600
-	:height: 250 
+	:height: 225 
   	:alt: Alternative text
 
 
