@@ -7,31 +7,25 @@ Arduinoda herşeyden önce çalışan blog **Başlangıçta** bloğudur.
 
 Tekrar için kullanılabilecek bloglar şunlardır.
 
-**Tekrar Yapısı 1**
--------------------
-
-**Sadece çalıştığında 3 defa çalışan tekrar yapısı**
+**Tekrar Yapısı 1:** Sadece çalıştığında 3 defa çalışan tekrar yapısı
 
 .. image:: /_static/images/arduino-tekrar-ana-1.png
 	:width: 600
+	:height: 250 
   	:alt: Alternative text
 
-**Tekrar Yapısı 2**
--------------------
-
-**Süresiz çalışan tekrar yapısı**
+**Tekrar Yapısı 2:** Süresiz çalışan tekrar yapısı
 
 .. image:: /_static/images/arduino-tekrar-ana-2.png
 	:width: 600
+	:height: 250 
   	:alt: Alternative text
 
-**Tekrar Yapısı 3**
--------------------
-
-**Süresiz çalışan tekrar yapısı**
+**Tekrar Yapısı 3:** Süresiz çalışan tekrar yapısı
 
 .. image:: /_static/images/arduino-tekrar-ana-3.png
 	:width: 600
+	:height: 250 
   	:alt: Alternative text
 
 
