@@ -1,7 +1,43 @@
 Tekrar Bloğu(Döngüler):
 +++++++++++++++++++++++
 
-Döngüler blog içindeki kodları tekrar tekrar çalıştıran yapılardır. Microbitte sürekli tekrar eden tekrar bloğu "Her Zaman" bloğudur.
+Döngüler blog içindeki kodları tekrar tekrar çalıştıran yapılardır. 
+Arduinoda sürekli tekrar eden tekrar bloğu **Süresiz** bloğudur.
+Arduinoda herşeyden önce çalışan blog **Başlangıçta** bloğudur.
+
+Tekrar için kullanılabilecek bloglar şunlardır.
+
+**Tekrar Yapısı 1**
+-------------------
+
+**Sadece çalıştığında 3 defa çalışan tekrar yapısı**
+
+.. image:: /_static/images/arduino-tekrar-ana-1.png
+	:width: 600
+  	:alt: Alternative text
+
+**Tekrar Yapısı 2**
+-------------------
+
+**Süresiz çalışan tekrar yapısı**
+
+.. image:: /_static/images/arduino-tekrar-ana-2.png
+	:width: 600
+  	:alt: Alternative text
+
+**Tekrar Yapısı 3**
+-------------------
+
+**Süresiz çalışan tekrar yapısı**
+
+.. image:: /_static/images/arduino-tekrar-ana-3.png
+	:width: 600
+  	:alt: Alternative text
+
+
+.. raw:: pdf
+
+   PageBreak
 
 **Örnek1:**
 -----------

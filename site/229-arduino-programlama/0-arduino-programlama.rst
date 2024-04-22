@@ -1,11 +1,11 @@
 Arduino Programlama
 ++++++++++++++++++++
 
-Arduino robotik çalışmalar yapabileceğimiz içerisinde birden çok sensör barındıran bir bilgisayardır. 
+Arduino robotik çalışmalar yapabileceğimiz birden çok sensör bağlanılabilen bir bilgisayardır. 
 
 Bu kartla bir çok projeyi kolaylıkla yapabiliriz.
 
-Kendi internet sitesinden online olarak blog tabanlı kodlama yapabileceğimiz bir ortam sunmaktadır. 
+**tinkercad** sitesinden online olarak blog tabanlı kodlama yapabileceğimiz bir ortam sunmaktadır. 
 
 Genellikle her programlama dilinde kullanılan yapılar şunlardır;
 
