@@ -1,4 +1,4 @@
-5-2-20- Arduino Uygulama
+6-2-14- Arduino Uygulama
 ========================
 .. toctree::
 	:glob:
