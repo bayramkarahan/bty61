@@ -2,7 +2,7 @@
 +++++++++++++++++++++++++++
 
 Döngüler, döngü bloğu içindeki kodları tekrar tekrar çalıştıran yapılardır.
-Aşağıda aynı problemin adım adım çözümü(doğrusal) ve tekrar bloğuyla çözümü ggörülmektedir.
+Aşağıda aynı problemin adım adım çözümü(doğrusal) ve tekrar bloğuyla çözümü görülmektedir.
 
 **Doğrusal Çözüm:**
 -------------------

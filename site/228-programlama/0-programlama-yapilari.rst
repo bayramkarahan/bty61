@@ -7,12 +7,14 @@ Genellikle her programlama dilinde kullanılan kodlama yapılar(kavramlar) şunl
 
 .. image:: /_static/images/dongu.png
 	:width: 600
+	:height: 300
   	:alt: Alternative text
 
 2. **Karar Bloğu(EĞER=if):** Bir bilgi veya duruma göre istediğimiz kodların çalışmayasını sağlayan kod bloğudur. Bilginin eşitlik(=), büyüklük(>), küçüklük(<) gibi durumuna göre belirlenen kodun çalışmasını sağlayan yapıdır.
 
-.. image:: /_static/images/eger.png
+.. image:: /_static/images/eger-000.png
 	:width: 600
+	:height: 250
   	:alt: Alternative text
 
 3. **Değişkenler**
