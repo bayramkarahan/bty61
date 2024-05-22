@@ -6,7 +6,7 @@ Hakkımda
 .. image:: /_static/images/about.svg
 	:width: 200
   		
-5. Sınıf Bilişim Tekonulojileri Ders Notları.
+6. Sınıf Bilişim Tekonulojileri Ders Notları.
 
 
 .. raw:: pdf
