@@ -1,6 +1,14 @@
 Bit'in Sağlığa Etkisi
 +++++++++++++++++++++
-Bit cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en aza indirmek için şunlara dikkat etmeliyiz.
+
+Teknoloji hayatımızın her alanında bizlere  avantajlar sağlamaktadır. Bunlar;
+
+- Hız
+- Maliyet
+- Zaman
+
+
+Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en aza indirmek için şunlara dikkat etmeliyiz.
 
 
     - Ergonomik ürünler tercih etmeliyiz
@@ -17,7 +25,7 @@ Bit cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en az
     - Bulunduğumuz ortamı havalandırmalıyız
     - Bulunduğumuz ortamın ışıklandırmasını gözden geçirmeliyiz.
     - Devamlı tekrar eden hareketlerden uzak durmalıyız.
-    - Ruh sağlımız bozulabilir.
+    - Bilişim cihazlarını günlük 2 saatten fazla kullanmamalıyız(Teknolojik bağımlı kabul ediliyor)
      
     - Karpal tunel sendromu konusunda bilgilenmeliyiz
 
