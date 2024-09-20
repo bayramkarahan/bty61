@@ -1,4 +1,4 @@
-İletim Sistemi Nedir?
+İşletim Sistemi Nedir?
 +++++++++++++++++++++
 
 Cihazların çalışması için gerekli olan yazılımdır. Bilgisayarla kullanıcı ve uygulamalar arasında
