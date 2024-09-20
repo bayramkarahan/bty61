@@ -3,7 +3,7 @@ Bilişimin Günlük Hayattaki Önemi
 
 Tewknolojik gelişmeler hayatımızın her alanında değişimlere sebep olmuştur. Bu alanlar;
 
-- Nesnelerin İnterneti
+- Bilişimin Teknolojik Etkisi
 - Bilişimin Mesleki Etkisi
 - Bilişimin Kültürel Etkisi
 - Bilişimin Sağlığa Etkisi
