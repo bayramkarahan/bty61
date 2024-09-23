@@ -64,6 +64,12 @@ Not: Linux işletim sisteminde dosya uzantılarının bir önemi yoktur. Windows
   :width: 600
   :alt: Alternative text
 
+Arşiv Oluşturma vr Sıkıştırma
++++++++++++++++++++++++++++++
+
+Birden fazla dosyayı tek bir dosya haline getirme ve boyutunu azaltma  işlemine arşivleme sıkıştırma işlemi denir.
+En sık kullanılan arşivleme ve sıkıştırma uygulamaları **rar, tar, zip vb.** dir.
+Bu Uygulamalarla sıkıştırılan dosyanın uzantısı kullanılan uygulamanın adını alır. Örneğin zip ile sıkıştırlan dosyaların tek bir dosya juhaline gelip uzantısı zip haline gelir.
 
 .. raw:: pdf
 
