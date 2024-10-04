@@ -1,7 +1,7 @@
 Etik Nedir?
 +++++++++++
 
-Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur. Bu kurumun **Kişisel Verileri Koruma Kanunu** bulunmaktadır.
+Etik yaptığımız davranışların ahlak açısından uygun olup olmadığını ifade etmek için kullanılan terimdir. Örneğin iyi davranış için **etik davranış** diyoruz. Kötü davranış için ise **etik olmayan davranış** deriz.
 
 İnternet Etiği:
 +++++++++++++++++
