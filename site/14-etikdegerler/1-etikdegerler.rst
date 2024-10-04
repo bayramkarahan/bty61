@@ -1,11 +1,11 @@
 Etik Nedir?
 +++++++++++
 
-Etik yaptığımız davranışların ahlak açısından uygun olup olmadığını ifade etmek için kullanılan ifadedir.
+Etik yaptığımız davranışların ahlak açısından uygun olup olmadığını ifade etmek için kullanılan terimdir.
 
 
 
-İnternette Etiği:
+İnternet Etiği:
 +++++++++++++++++
 
 Bilişim teknolojilerini kullanarak yaptığımız eylemlerin etik kurallara uygun olarak yapılması gerekmektedir. Eğer uygun olmazsa bir çok maddi manevi olumsuzluklara maruz kalabiliriz.
