@@ -1,14 +1,12 @@
 Etik Nedir?
 +++++++++++
 
-Etik yaptığımız davranışların ahlak açısından uygun olup olmadığını ifade etmek için kullanılan terimdir.
-
-
+Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur. Bu kurumun **Kişisel Verileri Koruma Kanunu** bulunmaktadır.
 
 İnternet Etiği:
 +++++++++++++++++
 
-Bilişim teknolojilerini kullanarak yaptığımız eylemlerin etik kurallara uygun olarak yapılması gerekmektedir. Eğer uygun olmazsa bir çok maddi manevi olumsuzluklara maruz kalabiliriz.
+Bilişim teknolojilerini kullanarak internette yaptığımız eylemlerin etik kurallara uygun olarak yapılması gerekmektedir. Etik kurallara uygun olmadığında bir çok maddi manevi olumsuzluklarla karşılaşabiliriz.
 
 .. image:: /_static/images/etikdegerler-etik.png
   :width: 400
@@ -34,19 +32,19 @@ Bilişim teknolojilerini kullanarak yaptığımız eylemlerin etik kurallara uyg
 KVKK(Kişisel Verileri Koruma Kurumu):
 +++++++++++++++++++++++++++++++++++++
 
-Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur.
+Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur. Bu kurumun **Kişisel Verileri Koruma Kanunu** bulunmaktadır.
 
 .. image:: /_static/images/etikdegerler-kvkk.png
   :width: 400
   :alt: Alternative text
 
 
-* Siber: İnternet
+* **Not:** Siber= İnternet
 
-Siber Zorbalık:
-+++++++++++++++
+Siber Zorbalık(internet Zorbalığı):
++++++++++++++++++++++++++++++++++++
 
-Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak bir birey ya da gruba yapılan zarar verme davranışlarıdır.
+Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak internet üzerinden kişi veya kişilere yapılan zarar verme davranışlarıdır.
 
 
 .. image:: /_static/images/etikdegerler-siberzorbalik.png
