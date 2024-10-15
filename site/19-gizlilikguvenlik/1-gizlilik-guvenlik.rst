@@ -1,3 +1,6 @@
+Gizlilik ve Güvenlik
+++++++++++++++++++++
+
 Gelişen dünyamızda, teknolojik gelişmeler özellikle bt cihazlarında baş döndürücü şekilde olmaktadır. Bu hızlı gelişim bütün bilgilerin ve işlerin bt cihazları üzerinden gerçekleştirilmesine neden olmuştur. Bu  durumda bt cihazlarının, içindeki bilgilerin korunmasını önemli kılmıştır.
 
 Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;

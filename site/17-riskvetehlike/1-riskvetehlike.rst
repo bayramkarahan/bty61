@@ -1,3 +1,6 @@
+Risk ve Tehlikerler
++++++++++++++++++++
+
 Bit kullanırken bir çok risk altın kalabiliriz.
 Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
 
