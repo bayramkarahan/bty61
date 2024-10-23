@@ -34,6 +34,8 @@ Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
 
 - Şifrelerimizi başkalarının tahmin edemeyeceği kadar karmaşık yapmalıyız
 
+https://www.passwordmonster.com/
+
 .. image:: /_static/images/riskvetehlike-strongpassword.png
   :width: 250
   :alt: Alternative text
