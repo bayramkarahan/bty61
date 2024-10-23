@@ -1,11 +1,11 @@
-Risk ve Tehlikerler
+Risk ve Tehlikeler
 +++++++++++++++++++
 
-Günümüzde teknolojik gelişmeler iş ve işlemlerimizi bilgisayar ve internetle yapmamızı giderek artırdı. Bundan dolayı bilgisayar ve internette daha fazla zaman harcamaktayız. Bu durumda  bit kullanırken bir çok risk altın kalabiliriz.
+Günümüzde teknolojik gelişmeler iş ve işlemlerimizi bilgisayar ve internetle yapmamızı giderek artırdı. Bundan dolayı bilgisayar ve internetle geçirdiğimiz zaman günden güne artmaktadır. Bu durum daha fazla risk ve tehlikeyle karşı karşıya kalmamıza neden olmaktadır.
 
-Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
+Risk ve tehlikelerden korunmak için aşağıdaki kurallara uymalıyız;
 
-- Bilgi ve belgelerde KVKK'ya uygun paylaşmalıyız.
+- Bilgi ve belgeleri KVKK'ya uygun paylaşmalıyız.
 .. image:: /_static/images/riskvetehlike-kvkk.png
   :width: 250
   :alt: Alternative text
