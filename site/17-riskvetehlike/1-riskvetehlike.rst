@@ -1,7 +1,8 @@
 Risk ve Tehlikerler
 +++++++++++++++++++
 
-Bit kullanırken bir çok risk altın kalabiliriz.
+Günümüzde teknolojik gelişmeler iş ve işlemlerimizi bilgisayar ve internetle yapmamızı giderek artırdı. Bundan dolayı bilgisayar ve internette daha fazla zaman harcamaktayız. Bu durumda  bit kullanırken bir çok risk altın kalabiliriz.
+
 Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
 
 - Bilgi ve belgelerde KVKK'ya uygun paylaşmalıyız.
@@ -24,7 +25,7 @@ Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
   :width: 250
   :alt: Alternative text
 
-- Ortak internet aboneliklerini kullanmamalıyız.
+- Başkalarıyla **ortak internet** aboneliklerini kullanmamalıyız.
 
 - Mutlaka bt cihazımıza şifre koymalıyız.
 .. image:: /_static/images/riskvetehlike-password.png
@@ -36,6 +37,8 @@ Risk ve tehlikelerden korunmak için şunlara dikkat etmeliyiz;
 .. image:: /_static/images/riskvetehlike-strongpassword.png
   :width: 250
   :alt: Alternative text
+* Sosyal medyada saygılı bir dil kullanamlıyız.
+* Çeşitli oyun platformlarında siber zorbalık yapmamalıyız.
 	
 .. raw:: pdf
 
