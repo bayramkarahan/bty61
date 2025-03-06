@@ -2,35 +2,27 @@ Böl Parçala Çöz
 ===============
 
 **Algoritma Nedir?**
-++++++++++++++++++++
+--------------------
 
- Algoritma bir işlemi mantık sırasıyla maddeler halinde yazma işlemidir. 
+Algoritma bir işlemi mantık sırasıyla maddeler halinde yazma işlemidir. 
 Tarihte ilk defa Harezmi tarafından matematik problemlerini çözmek için kullanılmıştır. 
 Algoritma her iş alanında işlemleri anlatmak için kullanılabilir. En sık yemek tariflerinde, bir cihaz kullanım kılavuzunda vb. örneklerde görmekteyiz. 
 Bunların dışında bir program yazarken ilk olarak problemin mantık sırasıyla çözümlenmesinde kullanılmaktadır. Algoritma programlamada ilk yapılması gereken adım olarak kabul edilmektedir.
 
 
 **Harezmi Kimdir?**
-+++++++++++++++++++
+-------------------
 
- Abbasi döneminde yaşamış büyük İslam bilgini olan El Harezmi, cebir ve algoritmayı keşfeden, sıfır rakamını ilk olarak açıklayan, insanlık tarihinin en önemli matematikçilerinden birisidir. Harezmi'nin neredeyse tüm kitapları Latinceye tercüme edilip batı ülkelerinde kullanılmıştır.
-
-.. image:: /_static/images/algoritma-1.png
-  :width: 600
-  :height: 500
-  :alt: Alternative text
-
-.. raw:: pdf
-
-   PageBreak
+Harezmi matematik alanında birçok keşfi bulunan bilim adamıdır. Sıfır rakamını bulmuştur. Matematik problemlerini belirli bir mantık sırasıyla çözümleneceğini tarif etmiştir. Bu çözümleme yöntemini günümüzde  algoritma  olarak yazılım geliştirmenin temel adımı olarak kullanmaktayız.
 
 **Algoritma Nasıl Yazılır:**
+----------------------------
 
 Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki konuda kütüphaneden kitap alıp okumak isteyen kişinin yapması gerekenleri hatırlayalım. Bunun için aşağıda bir algoritma oluşturalım.
 
 Öncelikle ilk maddemiz Başla ifadesi ve son maddemizde Son ifadesi olacak şekilde yapalım.
 
-.. image:: /_static/images/algoritma-2.png
+.. image:: /_static/images/algoritma-1.svg
   :width: 600
   :alt: Alternative text
 
@@ -48,37 +40,41 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
    PageBreak
    
-Örnek: 
-------
- Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
+**Örnek:**
+----------
 
-.. image:: /_static/images/algoritma-3.png
+Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
+
+.. image:: /_static/images/algoritma-kk0-1.svg
   :width: 600
   :alt: Alternative text
 
 **İşlem Adımları:**
--------------------
+--------------------
 
-.. image:: /_static/images/algoritma-4.png
+.. image:: /_static/images/algoritma-kk0-2.svg
   :width: 600
   :alt: Alternative text
 
 **Çözümü:**
-------------
+-----------
 
 1. Başla
-2. Sandal, kuzu karşıya geçer ve sandal geri döner
-3. Sandal, ot karşıya geçer ve sandal kuzu geri döner
-4. Sandal, Kurt karşıya geçer ve sandal geri döner
-5. Sandal, kuzu karşıya geçer..
-6. Son
+2. adam, kuzu <--
+3. adam -->
+4. adam, ot <--
+5. adam, kuzu --> 
+6. adam, kurt <--
+7. adam -->
+8. adam, kuzu <--
+9. Son
 
 .. raw:: pdf
 
    PageBreak
 
 **Algoritma Özellikleri:**
-++++++++++++++++++++++++++
+--------------------------
 
 Buna benzer şekilde yapacağımız işlemleri algoritmaya dökmemiz gerekmektedir.
 Algoritmalar yazılırken şunlara dikkat etmeliyiz.
@@ -93,7 +89,7 @@ Algoritmalar yazılırken şunlara dikkat etmeliyiz.
 
 Şimdi Kurt, Kuzu Ot problemini algoritma kurallarına göre yazalım.
 
-.. image:: /_static/images/algoritma-3.png
+.. image:: /_static/images/algoritma-kk0-1.svg
   :width: 600
   :alt: Alternative text
 
@@ -111,6 +107,29 @@ Kurt yerine K1, Sandal yerine S, Ot yerine O, Kuzu yerine K2, karşıya gitme ye
 7. S <
 8. S K2 >
 9. Son
+
+.. raw:: pdf
+
+   PageBreak
+
+**Tavşan Havuç Problemi:**
+-----------------------------
+
+Tavşanın havuca ulaşması için yapılması gereken işlem adımlarını yazınız. 
+
+
+.. image:: /_static/images/algoritma-3.png
+  :width: 600
+  :alt: Alternative text
+  
+**Problem Çözümü:**
+-------------------
+
+1. Başla
+2. İleri
+3. İleri
+4. Son
+
 
 .. raw:: pdf
 
