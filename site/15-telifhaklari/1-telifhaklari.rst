@@ -35,8 +35,8 @@ Not: İnternet'ten indirdiğimiz doküman, resim, müzik, film ve vb. eserlerin 
 Lisans Türleri:
 +++++++++++++++
 
-.. image:: /_static/images/telifhaklari-lisanstur.png
-  :width: 400
+.. image:: /_static/images/telifhaklari-lisanstur.svg
+  :width: 600
   :alt: Alternative text
 	
 

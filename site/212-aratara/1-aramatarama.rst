@@ -2,7 +2,7 @@ Web Tarayıcıları
 ++++++++++++++++
 İnternette bilgileri görebilmemiz için gerekli olan yazılımlara web tarayıcısı denilmektedir. Dünya genelinde yüzlerce web tarayıcı bulunmaktadır. Fakat sık kullanılanlar şunlardır;
 
-.. image:: /_static/images/arama-tarama-tarayici.png
+.. image:: /_static/images/arama-tarama-tarayici.svg
   :width: 400
   :height: 200
   :alt: Alternative text
@@ -20,7 +20,7 @@ Arama Motorları
 
 Web tarayıcılarına aranan bilgilerin bulunup getilmesini sağlayan uygulamalara arama motoru denilmektedir.
 
-.. image:: /_static/images/arama-tarama-aramamotor.png
+.. image:: /_static/images/arama-tarama-aramamotor.svg
   :width: 400
   :height: 200
   :alt: Alternative text
@@ -35,23 +35,28 @@ Web tarayıcılarına aranan bilgilerin bulunup getilmesini sağlayan uygulamala
 
    PageBreak
 
-Web Sitesi Adres Yapısı
-+++++++++++++++++++++++
+**Web Sitesi Adres Yapısı**
+++++++++++++++++++++++++++++
 
 
-.. image:: /_static/images/arama-tarama-websiteadi.png
-  :width: 400
+.. image:: /_static/images/arama-tarama-websiteadi.svg
+  :width: 600
   :alt: Alternative text
 
 
-İletişim Kuralı
----------------
+**İletişim Kuralı**
+-------------------
 
 * HTTP 	HyperText Transfer Protocol 	Bir internet sayfasına bağlanılacağını gösterir.
 * HTTPS 	HyperText Transfer Protocol Secure 	İnternet sayfasına güvenli bir şekilde bağlanılacağını 
 
-Web Sitesi Ad Uzantıları
-------------------------
+.. raw:: pdf
+
+   PageBreak
+
+
+**Web Sitesi Ad Uzantıları**
+----------------------------
 
 Web sitesinin içerinde ne tür bilgi paylaşılıyorsa ona göre web sitesi türü almak zorundayız.  Sık kullanılan uzantılar şunlardır;
 
@@ -65,12 +70,12 @@ Web sitesinin içerinde ne tür bilgi paylaşılıyorsa ona göre web sitesi tü
 
 Not:  gov uzantılı web siteleri almak için nic.tr web sitesinden izin alınması gerekmektedir.
 
-.. image:: /_static/images/arama-tarama-uzanti.png
+.. image:: /_static/images/arama-tarama-uzanti.svg
   :width: 400
   :alt: Alternative text
   
-Web Sitesi Ülke Kodları
------------------------
+**Web Sitesi Ülke Kodları**
+---------------------------
 Web sitesi isminin sonunda bulunan son iki karakter hangi ülkeye ait web sitesi olduğunu ifade eder.
 
 * tr --> Türkiye

@@ -12,13 +12,15 @@ Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu 
 
 
     - Ergonomik ürünler tercih etmeliyiz
-	.. image:: /_static/images/bilisiminonemi-saglik-boyun.png
+    
+	.. image:: /_static/images/bilisiminonemi-saglik-boyun.svg
 	  :width: 400
 	  :alt: Alternative text
 
     - Sık Sık çalışmaya ara vermeliyiz
     - Ekrandan 45cm uzak durmalıyız.
-	.. image:: /_static/images/bilisiminonemi-saglik-goz.png
+    
+	.. image:: /_static/images/bilisimonemi-saglik-goz.svg
 	  :width: 400
 	  :alt: Alternative text
   
@@ -26,12 +28,16 @@ Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu 
     - Bulunduğumuz ortamın ışıklandırmasını gözden geçirmeliyiz.
     - Devamlı tekrar eden hareketlerden uzak durmalıyız.
     - Bilişim cihazlarını günlük 2 saatten fazla kullanmamalıyız(Teknolojik bağımlı kabul ediliyor)
-     
-    - Karpal tunel sendromu konusunda bilgilenmeliyiz
 
-	.. image:: /_static/images/bilisiminonemi-saglik-karpal.png
-	  :width: 400
-	  :alt: Alternative text
+.. raw:: pdf
+
+   PageBreak
+
+- Karpal tunel sendromu konusunda bilgilenmeliyiz
+
+.. image:: /_static/images/bilisimonemi-saglik-karpal.svg
+  :width: 500
+  :alt: Alternative text
   	
 .. raw:: pdf
 

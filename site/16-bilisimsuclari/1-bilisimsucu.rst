@@ -6,25 +6,25 @@ Bu maddeler;
 
 - Bilişim sistemine girme suçu(m 243)
 
-.. image:: /_static/images/bilisimsuclari-girme.png
+.. image:: /_static/images/bilisimsuclari-girme.svg
   :width: 300
   :alt: Alternative text
   
 - Sistemi engelleme, bozma, yok etme, değiştirme vb. (m. 244)
 
-.. image:: /_static/images/bilisimsuclari-korsan.png
+.. image:: /_static/images/bilisimsuclari-korsan.svg
   :width: 300
   :alt: Alternative text
   
 - Banka ve kredi kartını kötüye kullanma (m. 245)
 
-.. image:: /_static/images/bilisimsuclari-kart.png
+.. image:: /_static/images/bilisimsuclari-kart.svg
   :width: 300
   :alt: Alternative text
   
 - Yasak cihazı ya da programı kullanma suçu(m. 245/a)
 
-.. image:: /_static/images/bilisimsuclari-internet.png
+.. image:: /_static/images/bilisimsuclari-internet.svg
   :width: 300
   :alt: Alternative text
 

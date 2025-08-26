@@ -10,7 +10,7 @@ Bilişim bir çok alanı etkilemesi ile Dünya genelinde kültürler arası etki
     - Yemek
     - Dans-Müzik vb.
 
-	.. image:: /_static/images/bilisiminonemi-kultur.png
+	.. image:: /_static/images/bilisiminonemi-kultur.svg
 	  :width: 400
 	  :alt: Alternative text
   	

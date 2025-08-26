@@ -12,7 +12,7 @@ Geçmişten günümüze teknolojik gelişme aşamaları şunlardır;
 - nesne-nesne --> günümüz ve gelecek
 
 
-.. image:: /_static/images/bilisiminonemi-iot.png
+.. image:: /_static/images/bilisiminonemi-iot.svg
   :width: 500
   :alt: Alternative text
 	

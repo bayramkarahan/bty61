@@ -5,8 +5,8 @@ Cihazların çalışması için gerekli olan yazılımdır. Bilgisayarla kullan�
 organizasyon yapan yazılımdır. Günümüzde en çok windows, linux ve macos kullanılmaktadır.
 
 
-.. image:: /_static/images/isletimsistemi-os.png
-  :width: 400
+.. image:: /_static/images/isletimsistemi-os.svg
+  :width: 300
   :alt: Alternative text
 
 
@@ -14,8 +14,8 @@ Sık kullanılanlar;
 
 Windows   : windows 3.1, 95 , 98, 2000, xp, vista, windows7, windows10
 
-.. image:: /_static/images/isletimsistemi-windows.png
-  :width: 400
+.. image:: /_static/images/isletimsistemi-windows.svg
+  :width: 170
   :alt: Alternative text
 
 
@@ -23,22 +23,15 @@ Windows   : windows 3.1, 95 , 98, 2000, xp, vista, windows7, windows10
 
 Linux         : pardus, ubuntu, kali, android(mobil), redhat, suse vb.
 
-.. image:: /_static/images/isletimsistemi-linux.png
-  :width: 400
-  :alt: Alternative text
-
-
-Unix           : unix
-            
-.. image:: /_static/images/isletimsistemi-unix.png
-  :width: 200
+.. image:: /_static/images/isletimsistemi-linux.svg
+  :width: 170
   :alt: Alternative text
 
 
 Macos        : macos, ios(mobil)
 
-.. image:: /_static/images/isletimsistemi-macos.png
-  :width: 200
+.. image:: /_static/images/isletimsistemi-macos.svg
+  :width: 170
   :alt: Alternative text
 
 Pardus:

@@ -7,13 +7,13 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 
 * Bilgisayarımızda güncel bir virüs programı kullanmalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-virus.png
+.. image:: /_static/images/gizlilik-guvenlik-virus.svg
   :width: 400
   :alt: Alternative text
 	
 * Güvenlik duvarını açık tutmalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-firewall.png
+.. image:: /_static/images/gizlilik-guvenlik-firewall.svg
   :width: 400
   :alt: Alternative text
 
@@ -25,19 +25,19 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 
 * Ortak internet aboneliklerini kullanmamalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-ortakag.png
+.. image:: /_static/images/gizlilik-guvenlik-ortakag.svg
   :width: 400
   :alt: Alternative text
 
 * Mutlaka bt cihazımıza şifre koymalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-password.png
+.. image:: /_static/images/gizlilik-guvenlik-password.svg
   :width: 400
   :alt: Alternative text
 	
 * Şifrelerimizi başkalarının tahmin edemeyeceği kadar karmaşık yapmalıyız
 
-.. image:: /_static/images/gizlilik-guvenlik-strongpassword.png
+.. image:: /_static/images/gizlilik-guvenlik-strongpassword.svg
   :width: 400
   :alt: Alternative text
 	
