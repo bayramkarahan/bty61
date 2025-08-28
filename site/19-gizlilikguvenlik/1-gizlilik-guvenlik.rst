@@ -14,7 +14,7 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 * Güvenlik duvarını açık tutmalıyız.
 
 .. image:: /_static/images/gizlilik-guvenlik-firewall.svg
-  :width: 400
+  :width: 300
   :alt: Alternative text
 
 	
@@ -26,13 +26,13 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 * Ortak internet aboneliklerini kullanmamalıyız.
 
 .. image:: /_static/images/gizlilik-guvenlik-ortakag.svg
-  :width: 400
+  :width: 250
   :alt: Alternative text
 
 * Mutlaka bt cihazımıza şifre koymalıyız.
 
 .. image:: /_static/images/gizlilik-guvenlik-password.svg
-  :width: 400
+  :width: 250
   :alt: Alternative text
 	
 * Şifrelerimizi başkalarının tahmin edemeyeceği kadar karmaşık yapmalıyız

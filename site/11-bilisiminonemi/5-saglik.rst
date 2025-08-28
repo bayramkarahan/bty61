@@ -13,14 +13,14 @@ Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu 
 
     - Ergonomik ürünler tercih etmeliyiz
     
-	.. image:: /_static/images/bilisiminonemi-saglik-boyun.svg
+	.. image:: /_static/images/bilisimonemi-ergonomi.svg
 	  :width: 400
 	  :alt: Alternative text
 
     - Sık Sık çalışmaya ara vermeliyiz
     - Ekrandan 45cm uzak durmalıyız.
     
-	.. image:: /_static/images/bilisimonemi-saglik-goz.svg
+	.. image:: /_static/images/bilisiminonemi-saglik-boyun.svg
 	  :width: 400
 	  :alt: Alternative text
   
