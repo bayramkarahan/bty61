@@ -66,11 +66,7 @@ Tekrar için kullanılabilecek bloglar şunlardır.
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.4 – Tinkercad Arduino Kartı Başlangıç Tekrar Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 
@@ -86,11 +82,7 @@ Tekrar için kullanılabilecek bloglar şunlardır.
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.5 – Tinkercad Arduino Kartı Başlangıç Tekrar Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 
 .. raw:: pdf

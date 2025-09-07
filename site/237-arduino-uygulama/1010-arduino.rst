@@ -6,11 +6,7 @@ Uygulama:
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.14.10.1 – Tinkercad Arduino Devresi
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 Çözüm:
 ------
@@ -20,11 +16,7 @@ Uygulama:
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.14.10.2 – Tinkercad Arduino Devresi
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 

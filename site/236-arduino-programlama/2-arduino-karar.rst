@@ -28,12 +28,8 @@ Ders notuna göre kırmızı ya da yeşil ledin yanmasını sağlayan örnek dev
    :width: 600
    :alt: Tinkercad Kartı
    :align: center
-
-   Şekil 6.2.13.7 – Tinkercad Arduino Kartı Karar Bloğu
-
-   *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
    
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
+   *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
 
 .. raw:: pdf
 
@@ -49,11 +45,7 @@ Aşağıda 2 numaralı pine bağlı olan butona basınca ledin yanmasını için
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.8 – Tinkercad Arduino Kartı Karar Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 **Kodu**
 --------
@@ -65,11 +57,7 @@ Aşağıda ise butonuna basınca ledin yanmasını sağlayan yazan kod bulunmakt
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.9 – Tinkercad Arduino Kartı Karar Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 

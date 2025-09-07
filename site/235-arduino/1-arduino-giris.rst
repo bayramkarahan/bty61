@@ -12,11 +12,7 @@ Tinkercad üzerinde **Arduino Kartı** aşağıdaki şekildedir:
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.14.1 – Tinkercad Arduino Kartı
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
    
 
 

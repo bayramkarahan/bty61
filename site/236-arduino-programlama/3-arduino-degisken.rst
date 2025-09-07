@@ -10,11 +10,7 @@ Aşağıda sayi adındaki değişkenimizi A butonuyla artırma ve B butonuyla ek
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.10 – Tinkercad Arduino Kartı Değişken Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
    
 .. raw:: pdf
 
@@ -27,11 +23,7 @@ Aşağıda uygulamanın çalışması için blog kodları görülmektedir.
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.11 – Tinkercad Arduino Kartı Değişken Bloğu
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 
 .. raw:: pdf

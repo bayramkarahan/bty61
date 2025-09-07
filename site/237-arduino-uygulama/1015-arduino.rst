@@ -6,11 +6,7 @@ Uygulama15:
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.14.15.1 – Tinkercad Arduino Devresi
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 
@@ -24,11 +20,7 @@ Uygulama15:
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.14.15.2 – Tinkercad Arduino Devresi
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 
 .. raw:: pdf

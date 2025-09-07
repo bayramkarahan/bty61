@@ -18,11 +18,7 @@ Genellikle giriş için kullanılan nesneler;
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.12 – Tinkercad Arduino Kartı Giriş Blogları
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 
@@ -47,11 +43,7 @@ Genellikle çıkış için kullanılan nesneler;
    :alt: Tinkercad Kartı
    :align: center
 
-   Şekil 6.2.13.13 – Tinkercad Arduino Kartı Çıkış Blogları
-
    *Autodesk ekran görüntüleri, Autodesk, Inc. izniyle yeniden basılmıştır.*
-   
-   *(Autodesk screen shots reprinted courtesy of Autodesk, Inc.)*
 
 .. raw:: pdf
 
