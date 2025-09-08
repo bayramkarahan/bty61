@@ -22,9 +22,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      # ✅ Checkout güncel
       - name: Checkout
-        uses: actions/checkout@v4   # ✅ v3 → v4
+        uses: actions/checkout@v4
 
+      # ✅ Docker build step
       - name: Run the build process with Docker
         uses: addnab/docker-run-action@v3
         with:
@@ -34,14 +36,24 @@ jobs:
             cd /root
             sh deploy.sh
 
+      # 🔹 Explicit upload-artifact v4 override
+      - name: Upload artifact (override v3)
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-output
+          path: /output
+
+      # ✅ Setup Pages
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1   # ✅ bu Pages için özel, sorun yok
+      # ✅ Upload Pages artifact
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
         with:
           path: '/output'
 
+      # ✅ Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
