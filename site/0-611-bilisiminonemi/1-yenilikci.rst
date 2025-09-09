@@ -8,7 +8,7 @@ listelenmiştir.
 
 1. Yapay Zekâ (AI) ve Makine Öğrenmesi (ML)
 -------------------------------------------
-.. figure:: images/ai.png
+.. figure:: /_static/images/ai.svg
    :alt: Yapay Zekâ
    :align: center
    :width: 200px
@@ -19,7 +19,7 @@ listelenmiştir.
 
 2. Bulut Bilişim ve Dağıtık Sistemler
 -------------------------------------
-.. figure:: images/cloud.png
+.. figure:: /_static/images/cloud.svg
    :alt: Bulut Bilişim
    :align: center
    :width: 200px
@@ -30,7 +30,7 @@ listelenmiştir.
 
 3. Nesnelerin İnterneti (IoT)
 ------------------------------
-.. figure:: images/iot.png
+.. figure:: /_static/images/iot.svg
    :alt: Nesnelerin İnterneti
    :align: center
    :width: 200px
@@ -41,7 +41,7 @@ listelenmiştir.
 
 4. Blokzincir (Blockchain) Teknolojisi
 --------------------------------------
-.. figure:: images/blockchain.png
+.. figure:: /_static/images/blockchain.svg
    :alt: Blockchain
    :align: center
    :width: 200px
@@ -52,7 +52,7 @@ listelenmiştir.
 
 5. 5G ve Yeni Nesil İletişim Teknolojileri
 ------------------------------------------
-.. figure:: images/5g.png
+.. figure:: /_static/images/5g.svg
    :alt: 5G Teknolojisi
    :align: center
    :width: 200px
@@ -63,18 +63,21 @@ listelenmiştir.
 
 6. Artırılmış Gerçeklik (AR) ve Sanal Gerçeklik (VR)
 ----------------------------------------------------
-.. figure:: images/ar-vr.png
+.. figure:: /_static/images/ar-vr.svg
    :alt: Artırılmış ve Sanal Gerçeklik
    :align: center
    :width: 200px
 
+- VR: Özel gözlüklerle sanal dünyaya girmek(VR gözlükle oyun oynama)
+- AR: gerçek dünya üzerine bilgisayar görüntüleri eklemek(pokemon GO vb.)
 - Eğitimde, sağlıkta ve eğlencede yeni deneyimler.
 - Sanal laboratuvarlar, simülasyon eğitimleri.
 - Uzaktan bakım ve tasarım uygulamaları.
 
+
 7. Kuantum Bilişim
 ------------------
-.. figure:: images/quantum.png
+.. figure:: /_static/images/quantum.svg
    :alt: Kuantum Bilişim
    :align: center
    :width: 200px
@@ -85,7 +88,7 @@ listelenmiştir.
 
 8. Siber Güvenlik Yenilikleri
 -----------------------------
-.. figure:: images/cybersecurity.png
+.. figure:: /_static/images/cybersecurity.svg
    :alt: Siber Güvenlik
    :align: center
    :width: 200px
@@ -96,7 +99,7 @@ listelenmiştir.
 
 9. Robotik ve Otonom Sistemler
 ------------------------------
-.. figure:: images/robotics.png
+.. figure:: /_static/images/robotics.svg
    :alt: Robotik ve Otonom Sistemler
    :align: center
    :width: 200px
@@ -107,7 +110,7 @@ listelenmiştir.
 
 10. Yeşil Bilişim (Green IT)
 ----------------------------
-.. figure:: images/green-it.png
+.. figure:: /_static/images/green-it.svg
    :alt: Yeşil Bilişim
    :align: center
    :width: 200px
@@ -127,4 +130,39 @@ bir dijital dünya için yol göstermektedir.
 .. raw:: pdf
 
    PageBreak
+   
+
+**Bilişimin Kullanıldığı Alanlar**
+++++++++++++++++++++++++++++++++++
+
+Bit bütün iş alanlarında çok önemli bir yeri vardır.
+Bu Alanlar;
+
+    - Eğitim
+    - Sağlık
+    - İletişim
+    - Sanayi
+    - Ulaşım
+    - Bankacılık
+    - Güvenlik
+    
+.. image:: /_static/images/bilisimonemi-alanlar.svg
+  :width: 500
+  :alt: Alternative text
+  
+**Yenilikçi Bilişim Avantajları**
+---------------------------------
+
+Yenilikçi bilişim teknolojilerinin sağladığı avantajlar şunlardır;
+
+- Hız
+- Maliyet
+- Zaman
+
+
+	
+.. raw:: pdf
+
+   PageBreak
+
 
