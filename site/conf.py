@@ -25,6 +25,7 @@ pdf_default_dpi = 96
 pdf_compressed = True
 pdf_language = "tr_TR"
 pdf_fit_mode = "shrink"
+pdf_use_unicodesubset = False
 
 # -- Options for HTML output --
 

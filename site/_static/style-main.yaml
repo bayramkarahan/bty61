@@ -1,4 +1,8 @@
 fontsAlias:
+  stdFont: DejaVuSans
+  stdBold: DejaVuSans-Bold
+  stdItalic: DejaVuSans-Oblique
+  stdBoldItalic: DejaVuSans-BoldOblique
   fontSerif: DejaVuSans
   fontSerifBold: DejaVuSans-Bold
   fontSerifBoldItalic: DejaVuSerif-BoldItalic
@@ -11,3 +15,25 @@ fontsAlias:
   fontSansBold: DejaVuSans-Bold
   fontSansBoldItalic: DejaVuSerif-BoldItalic
   fontSansItalic: DejaVuSerif-Italic
+  stdFont: FreeSans
+  stdBold: FreeSansBold
+  stdItalic: FreeSansOblique
+  stdBoldItalic: FreeSansBoldOblique
+  
+fonts:
+  DejaVuSans:
+    - /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+  DejaVuSans-Bold:
+    - /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
+  DejaVuSans-Oblique:
+    - /usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf
+  DejaVuSans-BoldOblique:
+    - /usr/share/fonts/truetype/dejavu/DejaVuSans-BoldOblique.ttf
+  FreeSans:
+    - /usr/share/fonts/truetype/freefont/FreeSans.ttf
+  FreeSansBold:
+    - /usr/share/fonts/truetype/freefont/FreeSansBold.ttf
+  FreeSansOblique:
+    - /usr/share/fonts/truetype/freefont/FreeSansOblique.ttf
+  FreeSansBoldOblique:
+    - /usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf

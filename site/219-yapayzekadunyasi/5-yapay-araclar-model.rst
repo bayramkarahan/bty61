@@ -29,7 +29,8 @@ Adımlar
 
 5. **Kullanma**
    - Model artık kararlar verebilir ve tahminlerde bulunabilir.  
-
+   
+   
 Örnekler
 --------
 
@@ -46,44 +47,29 @@ Adımlar
 
    PageBreak
    
-ASCII Akış Diyagramı
---------------------
 
-          [ Veri Toplama ]
-                 |
-                 v
-          [ Veri İşleme ]
-                 |
-                 v
-            [ Eğitme ]
-                 |
-                 v
-            [ Test Etme ]
-                 |
-                 v
-            [ Kullanma ]
+.. image:: /_static/images/makine-ogretimi.svg
+   :align: center
+   :width: 600px
 
-        Yapay Zekâ Araçları ile Model Geliştirme
-        =======================================
+Aşağıdaki web adresslerinde resim, ses ve pozisyon tespi yapmak için kullanılabilecek google firmasına ait bir web uygulamasıdır. Çeşitli platformlada çalışabilmektedir. Web sitesi, masaüstü ve arduino gibi ortamlardaki projelerde kullanılabilir.
 
-        +------------------+        +------------+
-        |   Fotoğraflar    | -----> |            |
-        |   (Kedi, Köpek)  |        |            |
-        +------------------+        |            |
-                                    |   MODEL    |
-        +------------------+        |  (Beyin)   |
-        |   Ses Komutları  | -----> |            |
-        | ("Işıkları aç")  |        |            |
-        +------------------+        +------------+
+- https://teachablemachine.withgoogle.com/train/image
+- https://teachablemachine.withgoogle.com/train/audio
+- https://teachablemachine.withgoogle.com/train/pose
 
-
-
+.. image:: /_static/images/makine-ogretimi1.png
+   :align: center
+   :width: 600px
+   
 Dikkat Edilecek Noktalar
 ------------------------
 
 * Veriler doğru ve güvenilir olmalı.  
 * Yeterli miktarda veri kullanılmalı.  
 * Model sürekli güncellenerek daha iyi hale getirilmeli.  
+
+
 
 Sonuç
 -----
